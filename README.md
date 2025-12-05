@@ -171,7 +171,7 @@ MIT License - Ver [LICENSE](LICENSE)
 ## 👤 Autor
 
 **Lucas Stalter**
-- GitHub: https://github.com/Lucasstalter/
+- GitHub: www.github.com/Lucasstalter/
 - LinkedIn: www.linkedin.com/in/lucas-martins-stalter
 
 
